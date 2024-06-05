@@ -1,0 +1,5 @@
+//!монтирование componentDidMount -1 этап
+
+//!обновление  componentDidUpdate -2 этап
+
+//!размонтирование  componentWillUnmount -3 этап

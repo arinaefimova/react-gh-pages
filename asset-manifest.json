@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.268b1f77.css",
+    "main.js": "/react-gh-pages/static/js/main.f116a6a9.js",
+    "static/js/825.eb1c327a.chunk.js": "/react-gh-pages/static/js/825.eb1c327a.chunk.js",
+    "static/css/836.a6468d26.chunk.css": "/react-gh-pages/static/css/836.a6468d26.chunk.css",
+    "static/js/836.5839ea7b.chunk.js": "/react-gh-pages/static/js/836.5839ea7b.chunk.js",
+    "static/css/401.0eb917af.chunk.css": "/react-gh-pages/static/css/401.0eb917af.chunk.css",
+    "static/js/401.d2521f12.chunk.js": "/react-gh-pages/static/js/401.d2521f12.chunk.js",
+    "static/css/438.f892cc6f.chunk.css": "/react-gh-pages/static/css/438.f892cc6f.chunk.css",
+    "static/js/438.987173b6.chunk.js": "/react-gh-pages/static/js/438.987173b6.chunk.js",
+    "static/js/591.0e804605.chunk.js": "/react-gh-pages/static/js/591.0e804605.chunk.js",
+    "static/js/150.c3039039.chunk.js": "/react-gh-pages/static/js/150.c3039039.chunk.js",
+    "static/media/x-men.png": "/react-gh-pages/static/media/x-men.41b39e1944f148b7a123.png",
+    "static/media/UW.png": "/react-gh-pages/static/media/UW.422636b41d853d832a20.png",
+    "static/media/vision.png": "/react-gh-pages/static/media/vision.067d4ae1936d64a577ce.png",
+    "static/media/abyss.jpg": "/react-gh-pages/static/media/abyss.93d211d37b67a60bace9.jpg",
+    "static/media/mjolnir.png": "/react-gh-pages/static/media/mjolnir.61f31e1809f12183a524.png",
+    "static/media/Avengers.png": "/react-gh-pages/static/media/Avengers.4065c8f9c94e3d8b039a.png",
+    "static/media/error.gif": "/react-gh-pages/static/media/error.42292aa12b6bc303ce99.gif",
+    "static/media/Avengers_logo.png": "/react-gh-pages/static/media/Avengers_logo.9eaf219344d83362e830.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.268b1f77.css.map": "/react-gh-pages/static/css/main.268b1f77.css.map",
+    "main.f116a6a9.js.map": "/react-gh-pages/static/js/main.f116a6a9.js.map",
+    "825.eb1c327a.chunk.js.map": "/react-gh-pages/static/js/825.eb1c327a.chunk.js.map",
+    "836.a6468d26.chunk.css.map": "/react-gh-pages/static/css/836.a6468d26.chunk.css.map",
+    "836.5839ea7b.chunk.js.map": "/react-gh-pages/static/js/836.5839ea7b.chunk.js.map",
+    "401.0eb917af.chunk.css.map": "/react-gh-pages/static/css/401.0eb917af.chunk.css.map",
+    "401.d2521f12.chunk.js.map": "/react-gh-pages/static/js/401.d2521f12.chunk.js.map",
+    "438.f892cc6f.chunk.css.map": "/react-gh-pages/static/css/438.f892cc6f.chunk.css.map",
+    "438.987173b6.chunk.js.map": "/react-gh-pages/static/js/438.987173b6.chunk.js.map",
+    "591.0e804605.chunk.js.map": "/react-gh-pages/static/js/591.0e804605.chunk.js.map",
+    "150.c3039039.chunk.js.map": "/react-gh-pages/static/js/150.c3039039.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.268b1f77.css",
+    "static/js/main.f116a6a9.js"
+  ]
+}
